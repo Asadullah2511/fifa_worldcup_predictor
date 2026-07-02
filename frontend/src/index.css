@@ -1,0 +1,34 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --green-dark: #0a4a2e;
+  --green: #1a7a4a;
+  --green-light: #2a9a5a;
+  --gold: #d4a843;
+  --gold-light: #e8c86a;
+  --cream: #f5efe0;
+  --white: #ffffff;
+  --dark: #1a1a2e;
+  --gray: #6b7280;
+  --gray-light: #e5e7eb;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", sans-serif;
+  background: var(--cream);
+  color: var(--dark);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}

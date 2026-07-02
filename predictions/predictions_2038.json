@@ -1,0 +1,88 @@
+{
+  "year": 2038,
+  "predictions": {
+    "winner": [
+      {
+        "team": "France",
+        "probability": 57.49,
+        "stage_prob": 46.13
+      }
+    ],
+    "finalist": [
+      {
+        "team": "France",
+        "probability": 67.99,
+        "stage_prob": 2.64
+      },
+      {
+        "team": "Morocco",
+        "probability": 53.66,
+        "stage_prob": 44.47
+      }
+    ],
+    "semi_finalist": [
+      {
+        "team": "Morocco",
+        "probability": 83.05,
+        "stage_prob": 10.74
+      },
+      {
+        "team": "Senegal",
+        "probability": 75.31,
+        "stage_prob": 10.31
+      },
+      {
+        "team": "Argentina",
+        "probability": 57.16,
+        "stage_prob": 41.03
+      },
+      {
+        "team": "France",
+        "probability": 53.98,
+        "stage_prob": 16.36
+      }
+    ],
+    "quarter_finalist": [
+      {
+        "team": "Argentina",
+        "probability": 87.99,
+        "stage_prob": 41.03
+      },
+      {
+        "team": "Spain",
+        "probability": 82.12,
+        "stage_prob": 45.76
+      },
+      {
+        "team": "France",
+        "probability": 82.08,
+        "stage_prob": 16.36
+      },
+      {
+        "team": "Morocco",
+        "probability": 81.03,
+        "stage_prob": 10.74
+      },
+      {
+        "team": "England",
+        "probability": 80.86,
+        "stage_prob": 33.52
+      },
+      {
+        "team": "Senegal",
+        "probability": 76.24,
+        "stage_prob": 10.31
+      },
+      {
+        "team": "Netherlands",
+        "probability": 75.84,
+        "stage_prob": 64.1
+      },
+      {
+        "team": "Germany",
+        "probability": 73.55,
+        "stage_prob": 55.55
+      }
+    ]
+  }
+}
